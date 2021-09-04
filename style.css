@@ -2,9 +2,7 @@ h1 {
     font-size: 60px;
     font-family: 'Comfortaa', cursive;
     background-color: yellow;
-    width: 250px;
-    height: 80px;
-    padding: 8px 8px 8px 8px
+    padding: 20px 20px 10px 20px
 }
 p {
    font-size: 22px;
