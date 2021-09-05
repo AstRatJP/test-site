@@ -3,6 +3,7 @@ h1 {
     font-family: 'Comfortaa', cursive;
     background-color: yellow;
     text-align: center;
+    margin: 0px;
     padding: 30px 0px 30px 0px;
     border: 1px solid black;
 }
