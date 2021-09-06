@@ -3,7 +3,6 @@
 @keyframes ani {
     0% {
         opacity: 0;
-        transform: transrate(30px 20px);
     }
     100% {
         opacity: 1;
@@ -23,7 +22,7 @@ body {
     margin: 30px 50px 30px 50px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    animation: ani 2s;
+    animation: ani 3s;
 }
 
 .h {
