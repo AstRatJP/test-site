@@ -3,7 +3,7 @@
 @keyframes ani {
     0% {
         opacity: 0;
-        transform: transrate(30px);
+        transform: transrate(30px 20px);
     }
     100% {
         opacity: 1;
