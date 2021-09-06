@@ -15,7 +15,7 @@ body {
 }
 
 * {
-    animation: ani 3s;
+    animation: ani 0.5s;
 }
 
 .square {
