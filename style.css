@@ -54,8 +54,10 @@ body {
 }
 
 a.btn {
+    display: flex;
+    align-items: center;
     text-decoration: none;
-    height: 50px;
+    height: 566px;
     font-size: 1.5rem;
     font-family: sans-serif;
     font-weight: bold;
