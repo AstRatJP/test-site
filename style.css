@@ -55,7 +55,7 @@ body {
 
 a.btn {
     display: flex;
-    align-items: center;
+    text-align: center;
     text-decoration: none;
     height: 566px;
     font-size: 1.5rem;
