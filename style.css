@@ -46,8 +46,14 @@ body {
     padding: 5px 10px 5px 10px;
 }
 
-.migiyose{ 
+.migiyose { 
     display: flex;
     justify-content: flex-end;
     margin: 0px;
+}
+
+.btn {
+    background-color: #fff;
+    border: 3px solid #000;
+    border-radius: 6px;
 }
