@@ -52,7 +52,7 @@ body {
     margin: 0px;
 }
 
-.btn {
+a.btn {
     font-size: 1.5rem;
     font-family: sans-serif;
     background-color: #fff;
