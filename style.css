@@ -32,13 +32,14 @@ body {
 .h {
     font-size: 6vw;
     font-family: 'Comfortaa', cursive;
+    display: flex;
     align-items: center;
     padding: 2vw 1vw 3vw 1vw;
     margin: 3vw 10vw 3vw 10vw;
 }
 
 img {
-    margin: 1vw 3vw 0vw 5vw;
+    margin: 0vw 3vw 0vw 3vw;
     width: 8vw;
     height: 8vw;
 }
