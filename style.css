@@ -76,7 +76,7 @@ a.btn1 {
     color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
-    box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.2);
     transition: all 0.3s;
     background-color: #f8a73a;
 }
@@ -97,7 +97,7 @@ a.btn2 {
     color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
-    box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.2);
     transition: all 0.3s;
     background-color: #fe0000;
 }
@@ -118,7 +118,7 @@ a.btn3 {
     color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
-    box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.2);
     transition: all 0.3s;
     background-color: #81b048;
 }
