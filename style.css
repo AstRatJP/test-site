@@ -75,7 +75,7 @@ a.btn {
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
 }
-.btn::hover {
+.btn:hover {
     color: #fff;
     background-color: #000;
     border: 0.2vw solid #fff;
