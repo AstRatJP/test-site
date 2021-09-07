@@ -72,7 +72,6 @@ a.btn1 {
     font-weight: bold;
     letter-spacing: 0.1vw;
     color: #000;
-    background-color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
     box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
@@ -94,7 +93,6 @@ a.btn2 {
     font-weight: bold;
     letter-spacing: 0.1vw;
     color: #000;
-    background-color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
     box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
@@ -116,7 +114,6 @@ a.btn3 {
     font-weight: bold;
     letter-spacing: 0.1vw;
     color: #000;
-    background-color: #fff;
     border: 0.2vw solid #000;
     border-radius: 0.4vw;
     box-shadow: 0 0 0.3vw rgba(0, 0, 0, 0.2);
@@ -125,22 +122,13 @@ a.btn3 {
 }
 
 a.btn1:hover {
-    color: #000;
-    background-color: #fff;
-    border: 0.2vw solid #000;
-    box-shadow: 0 0 0.4vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
 }
 
 a.btn2:hover {
-    color: #000;
-    background-color: #fff;
-    border: 0.2vw solid #000;
-    box-shadow: 0 0 0.4vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
 }
 
 a.btn3:hover {
-    color: #000;
-    background-color: #fff;
-    border: 0.2vw solid #000;
-    box-shadow: 0 0 0.4vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
 }
