@@ -33,11 +33,12 @@ body {
     font-size: 6vw;
     font-family: 'Comfortaa', cursive;
     align-items: center;
-    padding: 2vw 1vw 2vw 1vw;
+    padding: 2vw 1vw 3vw 1vw;
     margin: 3vw 10vw 3vw 10vw;
 }
 
 img {
+    margin: 1vw 3vw 0vw 10vw;
     width: 8vw;
     height: 8vw;
 }
@@ -122,7 +123,7 @@ a.btn3 {
 }
 
 a.btn1:hover {
-    coror: #f8a73a;
+    color: #f8a73a;
     background-color: #fff;
     box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
 }
