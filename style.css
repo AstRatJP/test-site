@@ -32,7 +32,7 @@ body {
 .h {
     font-size: 6vw;
     font-family: 'Comfortaa', cursive;
-    text-align: center;
+    align-items: center;
     padding: 2vw 1vw 2vw 1vw;
     margin: 3vw 10vw 3vw 10vw;
 }
