@@ -124,17 +124,17 @@ a.btn3 {
 a.btn1:hover {
     coror: #f8a73a;
     background-color: #fff;
-    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
 }
 
 a.btn2:hover {
     color: #fe0000;
     background-color: #fff;
-    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
 }
 
 a.btn3:hover {
     color: #81b048;
     background-color: #fff;
-    box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
 }
