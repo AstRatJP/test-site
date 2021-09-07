@@ -60,7 +60,7 @@ img {
 
 a.btn {
     display: inline-block;
-    margin: 5vw 10vw;
+    margin: 5vw 3vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,8 +78,20 @@ a.btn {
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
 }
+
 a.btn:hover {
     color: #fff;
-    background-color: #F0A040;
     border: 0.2vw solid #000;
+}
+
+.1:hover {
+    background-color: #f0a040;
+}
+
+.2 {
+    background-color: #f00000;
+}
+
+.3 {
+    background-color: #81b048;
 }
