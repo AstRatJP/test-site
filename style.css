@@ -80,6 +80,6 @@ a.btn {
 }
 a.btn:hover {
     color: #fff;
-    background-color: #000;
-    border: 0.2vw solid #fff;
+    background-color: #aaa;
+    border: 0.2vw solid #000;
 }
