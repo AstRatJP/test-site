@@ -20,7 +20,7 @@ body {
 }
 
 .square {
-    font-size: 1.5rem;
+    font-size: 1.8vw;
     font-family: sans-serif;
     background-color: #fff;
     padding: 5px;
@@ -43,7 +43,7 @@ body {
 
 .n {
     width: 250px;
-    font-size: 1rem;
+    font-size: 1.5vw;
     padding: 5px 10px 5px 10px;
 }
 
@@ -61,7 +61,7 @@ a.btn {
     text-decoration: none;
     width: 75px;
     height: 28px;
-    font-size: 0.75rem;
+    font-size: 1.2vn;
     font-family: sans-serif;
     font-weight: bold;
     letter-spacing: 1px;
