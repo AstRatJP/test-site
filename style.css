@@ -99,7 +99,7 @@ a.btn2 {
     border-radius: 0.4vw;
     box-shadow: 0 0 0.5vw rgba(0, 0, 0, 0.2);
     transition: all 0.3s;
-    background-color: #81b048;
+    background-color: #2da54e;
 }
 
 a.btn3 {
@@ -151,7 +151,7 @@ a.btn1:hover {
 }
 
 a.btn2:hover {
-    color: #81b048;
+    color: #2da54e;
     background-color: #fff;
     box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
 }
