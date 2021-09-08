@@ -11,7 +11,7 @@
     
 
 body {
-    background-color: linear-gradient(90deg, rgba(168, 202, 240, 1), rgba(233, 240, 250, 1));
+    background-image: linear-gradient(90deg, rgba(168, 202, 240, 1), rgba(233, 240, 250, 1));
 }
 
 * {
@@ -48,12 +48,6 @@ img {
 
 .main {
     padding: 0.5vw 3vw 0.5vw 3vw;
-}
-
-.n {
-    width: 25vw;
-    font-size: 1.5vw;
-    padding: 0.5vw 1vw 0.5vw 1vw;
 }
 
 .migiyose { 
@@ -172,6 +166,6 @@ a.btn4:hover {
 
 .gra {
     height: 10vw;
-    width: 99vw;
+    width: 100vw;
     background-image: linear-gradient(150deg, rgba(247, 166, 12, 1) 10%, rgba(255, 34, 87, 1) 40%, rgba(154, 39, 238, 1) 68%, rgba(35, 102, 247, 1) 90%);
 }
