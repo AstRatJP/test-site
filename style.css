@@ -3,9 +3,11 @@
 @keyframes ani {
     0% {
         opacity: 0;
+        filter: blur(5vw);
     }
     100% {
         opacity: 1;
+        filter: blur(0vw);
     }
 }
     
@@ -20,8 +22,6 @@ body {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
-    filter: blur(0.01vw);
-
 }
 
 .square {
